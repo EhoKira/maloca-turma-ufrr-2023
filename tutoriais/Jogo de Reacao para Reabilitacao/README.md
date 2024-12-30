@@ -62,6 +62,8 @@ pip install esptool
 3. Verifique a fiação para garantir que cada botão corresponda a um LED.
 4. Simule o circuito no Wokwi para validação.
 
+Link da simulação: [Simulação no Wokwi](https://wokwi.com/projects/402609002044694529)
+
 <img src="Modelo do Circuito.png" alt="Modelo Wokwi" />
 
 ---
